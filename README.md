@@ -1,1 +1,1 @@
-echo "# Git Laborator" > README.md
+echo "This is a feature branch." >> README.md
