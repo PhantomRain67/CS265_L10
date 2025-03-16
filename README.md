@@ -1,1 +1,1 @@
-echo "This is a feature branch." >> README.md
+echo "This will cause a conflict." >> README.md
