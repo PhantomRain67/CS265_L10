@@ -1,1 +1,1 @@
-echo "This will cause a conflict." >> README.md
+echo "Remote branch change" >> README.md
